@@ -16,12 +16,12 @@ Xiaomi Mi MIX 3 was announced on the 25th of October 2018 and released on the 1s
 
 Works:
 
-- No idea, I have yet to receive the Mix 3 so I don't have any testing devices
+- Nothing, it doesn't post yet...
 
 Not working:
 
-- Crypto stuff like disk decryption most likely, compiling gives me a missing dependency issue. Will resolve later (Or send your pull request!)
-- Again no idea, for all I know it doesn't even start because I don't have a testing device
+- Everything at the moment, feel free to contribute
+- Probably even more
 
 ## Credits
 
